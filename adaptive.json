@@ -1,0 +1,24 @@
+[
+  {
+    "displayName": "Adaptive Bootstrap",
+    "category": "Initializers",
+    "description": "Simple Adaptive application using the Bootstrap Initializr for iOS and Android",
+    "source": {
+      "type": "adaptive",
+      "location": "",
+      "parameters": {
+        "adaptive": "latest",
+        "boilerplate":"Initializr Bootstrap",
+        "platforms":"android,ios",
+        "iosVersion":"8.1",
+        "androidVersion":"5.0"
+
+      }
+    },
+    "runners": {
+    },
+    "builders": {
+      "default": "adaptive"
+    }
+  }
+]
