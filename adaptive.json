@@ -20,5 +20,27 @@
     "builders": {
       "default": "adaptive"
     }
+  },
+  {
+    "displayName": "Adaptive Typescript Bootstrap",
+    "category": "Initializers",
+    "description": "Simple Adaptive Typescript application using the Bootstrap Initializr for iOS and Android",
+    "source": {
+      "type": "adaptive",
+      "location": "",
+      "parameters": {
+        "adaptive": "latest",
+        "boilerplate":"Initializr Bootstrap",
+        "platforms":"android,ios",
+        "iosVersion":"8.1",
+        "androidVersion":"5.0",
+        "typescript":"true"
+      }
+    },
+    "runners": {
+    },
+    "builders": {
+      "default": "adaptive"
+    }
   }
 ]
