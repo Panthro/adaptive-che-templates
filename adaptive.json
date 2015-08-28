@@ -8,7 +8,7 @@
             "location": "",
             "parameters": {
                 "adaptive": "latest",
-                "boilerplate": "Initializr Bootstrap",
+                "boilerplate": "Initializr Boostrap",
                 "platforms": "android,ios",
                 "iosVersion": "8.1",
                 "androidVersion": "5.0"
