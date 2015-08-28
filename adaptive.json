@@ -20,27 +20,6 @@
         }
     },
     {
-        "displayName": "Typescript Initializr Bootstrap",
-        "category": "Initializers",
-        "description": "Simple Adaptive Typescript application using the Bootstrap Initializr for iOS and Android",
-        "source": {
-            "type": "adaptive",
-            "location": "",
-            "parameters": {
-                "adaptive": "latest",
-                "boilerplate": "Initializr Bootstrap",
-                "platforms": "android,ios",
-                "iosVersion": "8.1",
-                "androidVersion": "5.0",
-                "typescript": "true"
-            }
-        },
-        "runners": {},
-        "builders": {
-            "default": "adaptive"
-        }
-    },
-    {
         "displayName": "Initializr Responsive",
         "category": "Initializers",
         "description": "Simple Adaptive application using the Responsive Initializr for iOS and Android",
@@ -53,27 +32,6 @@
                 "platforms": "android,ios",
                 "iosVersion": "8.1",
                 "androidVersion": "5.0"
-            }
-        },
-        "runners": {},
-        "builders": {
-            "default": "adaptive"
-        }
-    },
-    {
-        "displayName": "Typescript Initializr Responsive",
-        "category": "Initializers",
-        "description": "Simple Adaptive Typescript application using the Responsive Initializr for iOS and Android",
-        "source": {
-            "type": "adaptive",
-            "location": "",
-            "parameters": {
-                "adaptive": "latest",
-                "boilerplate": "Initializr Responsive",
-                "platforms": "android,ios",
-                "iosVersion": "8.1",
-                "androidVersion": "5.0",
-                "typescript": "true"
             }
         },
         "runners": {},
@@ -102,27 +60,6 @@
         }
     },
     {
-        "displayName": "Typescript HTML5 Boilerplate",
-        "category": "Initializers",
-        "description": "Simple Adaptive Typescript application using the HTML5 Boilerplate for iOS and Android",
-        "source": {
-            "type": "adaptive",
-            "location": "",
-            "parameters": {
-                "adaptive": "latest",
-                "boilerplate": "HTML5 Boilerplate",
-                "platforms": "android,ios",
-                "iosVersion": "8.1",
-                "androidVersion": "5.0",
-                "typescript": "true"
-            }
-        },
-        "runners": {},
-        "builders": {
-            "default": "adaptive"
-        }
-    },
-    {
         "displayName": "Mobile HTML5 Boilerplate",
         "category": "Initializers",
         "description": "Simple Adaptive application using the Mobile HTML5 Boilerplate for iOS and Android",
@@ -135,27 +72,6 @@
                 "platforms": "android,ios",
                 "iosVersion": "8.1",
                 "androidVersion": "5.0"
-            }
-        },
-        "runners": {},
-        "builders": {
-            "default": "adaptive"
-        }
-    },
-    {
-        "displayName": "Typescript Mobile HTML5 Boilerplate",
-        "category": "Initializers",
-        "description": "Simple Adaptive Typescript application using the Mobile HTML5 Boilerplate for iOS and Android",
-        "source": {
-            "type": "adaptive",
-            "location": "",
-            "parameters": {
-                "adaptive": "latest",
-                "boilerplate": "Mobile HTML5 Boilerplate",
-                "platforms": "android,ios",
-                "iosVersion": "8.1",
-                "androidVersion": "5.0",
-                "typescript": "true"
             }
         },
         "runners": {},
